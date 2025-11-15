@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Medi_Riba.egg-info/PKG-INFO
+Medi_Riba.egg-info/SOURCES.txt
+Medi_Riba.egg-info/dependency_links.txt
+Medi_Riba.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py

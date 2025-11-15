@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Medi-Riba
+Version: 0.0.0
+Author: Kabir Ahmed
+Author-email: kabirahmed1119@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
